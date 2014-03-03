@@ -4,7 +4,7 @@
 
 Non-official Olympic Sochi 2014 logo with unopened top right ring.
 
-![Image Example](https://github.com/dmitry-kostin/olympic/blob/master/img/test.png)
+![Image Example](https://raw.github.com/dmitry-kostin/olympic/master/img/test.png)
 
 ## Description
 
